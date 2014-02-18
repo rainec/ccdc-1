@@ -3,3 +3,4 @@ cd /
 clear
 echo CCDC Backup Script
 tar -zcvf www-backup.tar.gz /var/www
+yum install git -y
